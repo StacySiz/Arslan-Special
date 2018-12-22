@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9f60205-f968-46f1-8ae3-1ec5ee8fc4e0" name="Default" comment="" />
+    <list default="true" id="a9f60205-f968-46f1-8ae3-1ec5ee8fc4e0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/ApplicationManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/ApplicationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/TwitterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/TwitterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/data/AccountData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/data/AccountData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/helpers/LoginHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/test/helpers/LoginHelper.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +45,25 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1216180743">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="225" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="225" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileColors">
     <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
@@ -49,11 +74,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/TwitterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="242">
+              <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/helpers/PostHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="429">
+              <caret line="37" column="92" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,12 +101,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/ApplicationManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+            <state relative-caret-position="88">
+              <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1887#1888#0" expanded="true" />
-                <element signature="e#1921#1922#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/data/AccountData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -105,15 +128,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/helpers/LoginHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="54" />
+            <state relative-caret-position="415">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1318#1319#0" expanded="true" />
-                <element signature="e#1411#1412#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,8 +143,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/test/helpers/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="85">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,6 +174,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -160,7 +184,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/test/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/LoginHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/AuthTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/test/data/AccountData.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/test_classes/AuthTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/helpers/HelperBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/test_classes/ApplicationManager.java" />
@@ -169,10 +192,11 @@
         <option value="$PROJECT_DIR$/src/test/java/com/test/helpers/NavigationHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/data/PostData.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/test/ApplicationManager.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/test/helpers/LoginHelper.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/helpers/PostHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/data/AccountData.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/ApplicationManager.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/test/TwitterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/test/helpers/LoginHelper.java" />
       </list>
     </option>
   </component>
@@ -186,6 +210,9 @@
     <option name="x" value="-10" />
     <option name="width" value="1380" />
     <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -238,8 +265,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -247,7 +274,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Tests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -275,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TwitterTest">
+  <component name="RunManager" selected="JUnit.TwitterTest.getAuthTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -337,6 +364,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwitterTest.getAuthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.TwitterTest" />
+      <option name="METHOD_NAME" value="getAuthTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -364,9 +408,11 @@
       <item itemvalue="JUnit.TestBase" />
       <item itemvalue="JUnit.TestBase.testUntitledTestCase" />
       <item itemvalue="JUnit.TwitterTest" />
+      <item itemvalue="JUnit.TwitterTest.getAuthTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TwitterTest.getAuthTest" />
         <item itemvalue="JUnit.TwitterTest" />
         <item itemvalue="JUnit.TestBase.testUntitledTestCase" />
         <item itemvalue="JUnit.TestBase" />
@@ -391,28 +437,11 @@
       <workItem from="1543260905225" duration="848000" />
       <workItem from="1543263442641" duration="5344000" />
       <workItem from="1543293949485" duration="1486000" />
+      <workItem from="1543312478236" duration="1351000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FirstTest_testUntitledTestCase - 2018.10.16 at 12h 54m 35s.xml">
-      <configuration name="FirstTest.testUntitledTestCase" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest_testUntitledTestCase - 2018.10.16 at 12h 55m 53s.xml">
-      <configuration name="FirstTest.testUntitledTestCase" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FirstTest_testUntitledTestCase - 2018.10.16 at 12h 57m 01s.xml">
-      <configuration name="FirstTest.testUntitledTestCase" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AuthTest - 2018.10.30 at 12h 27m 19s.xml">
-      <configuration name="AuthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AuthTest - 2018.10.30 at 12h 28m 31s.xml">
-      <configuration name="AuthTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AuthTest - 2018.10.30 at 12h 29m 34s.xml">
-      <configuration name="AuthTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TwitterTest - 2018.11.27 at 07h 53m 56s.xml">
       <configuration name="TwitterTest" configurationId="JUnit" />
     </history-entry>
@@ -425,15 +454,32 @@
     <history-entry file="TwitterTest - 2018.11.27 at 08h 06m 44s.xml">
       <configuration name="TwitterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TwitterTest - 2018.11.27 at 13h 05m 58s.xml">
+      <configuration name="TwitterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterTest - 2018.11.27 at 13h 08m 11s.xml">
+      <configuration name="TwitterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterTest_getAuthTest - 2018.11.27 at 13h 11m 33s.xml">
+      <configuration name="TwitterTest.getAuthTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterTest_getAuthTest - 2018.11.27 at 13h 12m 21s.xml">
+      <configuration name="TwitterTest.getAuthTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterTest_getAuthTest - 2018.11.27 at 13h 13m 53s.xml">
+      <configuration name="TwitterTest.getAuthTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwitterTest_getAuthTest - 2018.11.27 at 13h 16m 12s.xml">
+      <configuration name="TwitterTest.getAuthTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18826000" />
+    <option name="totallyTimeSpent" value="20177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27651006" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28053692" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -442,7 +488,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.13006993" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18321678" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -452,7 +498,6 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32587412" />
-      <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -462,6 +507,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,13 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/data/AccountData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/data/PostData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -512,42 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/helpers/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/ApplicationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1887#1888#0" expanded="true" />
-            <element signature="e#1921#1922#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/helpers/LoginHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1318#1319#0" expanded="true" />
-            <element signature="e#1411#1412#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/helpers/PostHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="85">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -565,10 +570,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/data/AccountData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/helpers/PostHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="37" column="92" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/ApplicationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/test/TwitterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="242">
+          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/test/helpers/LoginHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

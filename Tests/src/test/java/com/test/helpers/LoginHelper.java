@@ -14,9 +14,13 @@ public class LoginHelper extends HelperBase {
         super(appManager);
     }
 
-    public void login(AccountData user) throws InterruptedException {
+    public AccountData login(AccountData user) throws InterruptedException {
         fillInEmailTestCase(user);
         fillInPasswordTestCase(user);
+        AccountData accountData = getLoginData();
+        submitForm();
+
+        return accountData;
     }
 
     private void loginEmail(AccountData user) throws InterruptedException {
@@ -37,11 +41,19 @@ public class LoginHelper extends HelperBase {
     public void fillInPasswordTestCase(AccountData user) throws InterruptedException {
         getAppManager().getDriver().findElement(By.className("js-password-field")).click();
         loginPassword(user);
-        submitForm();
+//        submitForm();
     }
 
     public void submitForm() {
         getAppManager().getDriver().findElement(By.tagName("button")).click();
+    }
+
+    public AccountData getLoginData() {
+        AccountData accountData = new AccountData();
+        System.out.println("Email is " + getAppManager().getDriver().findElements(By.className("js-username-field email-input js-initial-focus")).get(0).getText());
+        accountData.setEmail(String.valueOf(getAppManager().getDriver().findElements(By.className("js-username-field email-input js-initial-focus"))));
+        accountData.setPassword(String.valueOf(getAppManager().getDriver().findElement(By.className("js-password-field"))));
+        return accountData;
     }
 
     public static AccountData getUser() {

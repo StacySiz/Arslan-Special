@@ -1,5 +1,6 @@
 package com.test;
 
+import com.test.data.AccountData;
 import com.test.data.PostData;
 import com.test.helpers.LoginHelper;
 import com.test.helpers.PostHelper;
@@ -13,6 +14,8 @@ public class TwitterTest extends TestBase {
     public void getAuthTest() throws InterruptedException {
         getAppManager().getNavigation().getOnPage();
         getAppManager().getAuth().login(LoginHelper.getUser());
+        AccountData accountData = getAppManager().getAuth().login(LoginHelper.getUser());
+        Assert.assertEquals(LoginHelper.getUser(),accountData);
     }
 
     @Test

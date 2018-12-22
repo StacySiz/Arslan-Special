@@ -13,7 +13,9 @@ import static org.junit.Assert.fail;
 public class ApplicationManager {
     private WebDriver driver;
     private String baseUrl = "https://twitter.com/login?lang=ru";
-    private String driverPath = "C:\\chromedriver_win32\\chromedriver.exe";
+//    private String driverPath = "C:\\chromedriver_win32\\chromedriver.exe";
+    private String driverPath = "C:\\Users\\Stacy\\Desktop\\Уник\\Тесты\\chromedriver_win32\\chromedriver.exe";
+
     private String driverName = "webdriver.chrome.driver";
     private StringBuffer verificationErrors = new StringBuffer();
 
